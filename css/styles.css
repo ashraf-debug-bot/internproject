@@ -1,0 +1,157 @@
+body{
+  background: rgb(255,0,181);
+  background: linear-gradient(0deg, rgba(255,0,181,0.9447129193474265) 0%, rgba(0,233,191,1) 100%);
+
+}
+.footer-img{
+  color:#ffffff;
+}
+.structure-img{
+  color:#ffffff;
+}
+.footer{
+  color:#ffffff;
+}
+#above-footer{
+  padding:3% 7% 15%;
+  color:#ffffff;
+
+}
+#box{
+  padding:4% 7% 15%;
+}
+
+.footer-heading{
+  line-height: 2;
+
+}
+#middel-center{
+  padding:4% 7% 15%;
+  color:#ffffff;
+}
+.footerimg{
+  text-align: center;
+}
+#images{
+  text-align: center;
+
+}
+.download-img{
+  padding:7%;
+}
+li{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+#top{
+color:#000000;
+}
+.box-text{
+  font-family:'Nunito', sans-serif;
+  font-weight: bolder;
+}
+.navbar-brand {
+  font-size: 3rem;
+  font-weight: bolder;
+}
+.nav-item{
+  font-weight: bolder;
+  font-size: 2rem;
+
+}
+.title-img{
+width: 100%;
+left:10%;
+padding-left: 50%;
+position: absolute;
+
+}
+.btn{
+  background-color: #000000;
+}
+.btn-heading{
+  background-color:#000000;
+margin:3%;
+padding: 10px 30px;
+
+}
+
+.btn-sub{
+  background-color: #ffffff;
+  color:#000000;
+  border: 120px;
+  padding: 10px 30px;
+}
+.btn-sub:hover{
+background-color:#000000;}
+
+.heading-h1{
+    font-size:3rem;
+}
+#heading{
+  padding:7% 7% 15%;
+
+}
+.navbar{
+  position:relative;
+}
+p{
+  font-weight: bolder;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 1.5rem;
+}
+hr {
+            position: relative;
+            top: 20px;
+            border: none;
+            height: 5px;
+            background: black;
+            margin-bottom: 50px;
+        }
+h1{
+font-family: 'Ubuntu', sans-serif;
+font-weight: bolder;
+}
+#center{
+  background: rgb(233,233,233);
+background: linear-gradient(0deg, rgba(233,233,233,0.9447129193474265) 0%, rgba(233,0,228,1) 100%);
+padding:25% 7% 15%;
+color:#ffffff;
+}
+.box {
+  background-color:#ffffff;
+  width: 300px;
+  color:#000000;
+  border: 50px;
+  padding: 50px;
+  margin: 30px;
+  box-shadow: rgba(240, 46, 170, 082032) 5px 5px, rgba(240, 46, 170, 0.3)10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.box-bottom{
+  background-color:#ffffff;
+  width: 500px;
+  color:#000000;
+  border:50px;
+  padding: 50px;
+  margin: 30px;
+  box-shadow: 10px 10px 5px 0px rgba(249,248,248,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(249,248,248,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(249,248,248,0.75);
+}
+#box{
+  color:#ffffff;
+}
+#footer{
+  padding: 7% 15%;
+  background-color: #000000;
+  color:#ffffff;
+  text-align: center;
+  line-height: 2;
+}
+.downpara{
+  font-size: 140%;
+}
+.navbar-toggler{
+  font-size: 45px;
+}
